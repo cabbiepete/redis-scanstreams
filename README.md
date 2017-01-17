@@ -1,10 +1,10 @@
 redis-scanstreams
-===== 
+=====
 
 [![NPM](https://nodei.co/npm/redis-scanstreams.png)](https://nodei.co/npm/redis-scanstreams/)
-
-[![david-dm](https://david-dm.org/brycebaril/redis-scanstreams.png)](https://david-dm.org/brycebaril/redis-scanstreams/)
-[![david-dm](https://david-dm.org/brycebaril/redis-scanstreams/dev-status.png)](https://david-dm.org/brycebaril/redis-scanstreams#info=devDependencies/)
+[![bitHound Dependencies](https://www.bithound.io/github/cabbiepete/redis-scanstreams/badges/dependencies.svg)](https://www.bithound.io/github/cabbiepete/redis-scanstreams/master/dependencies/npm)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/cabbiepete/redis-scanstreams/badges/devDependencies.svg)](https://www.bithound.io/github/cabbiepete/redis-scanstreams/master/dependencies/npm)
+[![bitHound Overall Score](https://www.bithound.io/github/cabbiepete/redis-scanstreams/badges/score.svg)](https://www.bithound.io/github/cabbiepete/redis-scanstreams)
 
 Provides a streaming interface to the Redis \*SCAN commands.
 
